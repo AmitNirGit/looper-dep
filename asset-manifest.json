@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/looper-dep/static/css/main.787ead5d.chunk.css",
+    "main.js": "/looper-dep/static/js/main.16e274f5.chunk.js",
+    "main.js.map": "/looper-dep/static/js/main.16e274f5.chunk.js.map",
+    "runtime-main.js": "/looper-dep/static/js/runtime-main.20393e22.js",
+    "runtime-main.js.map": "/looper-dep/static/js/runtime-main.20393e22.js.map",
+    "static/js/2.ed65af8a.chunk.js": "/looper-dep/static/js/2.ed65af8a.chunk.js",
+    "static/js/2.ed65af8a.chunk.js.map": "/looper-dep/static/js/2.ed65af8a.chunk.js.map",
+    "index.html": "/looper-dep/index.html",
+    "static/css/main.787ead5d.chunk.css.map": "/looper-dep/static/css/main.787ead5d.chunk.css.map",
+    "static/js/2.ed65af8a.chunk.js.LICENSE.txt": "/looper-dep/static/js/2.ed65af8a.chunk.js.LICENSE.txt",
+    "static/media/120_future_funk_beats_25.5eb417fc.mp3": "/looper-dep/static/media/120_future_funk_beats_25.5eb417fc.mp3",
+    "static/media/120_stutter_breakbeats_16.37c82282.mp3": "/looper-dep/static/media/120_stutter_breakbeats_16.37c82282.mp3",
+    "static/media/BassWarwickheavyfunkgrooveonE120BPM.52c24c81.mp3": "/looper-dep/static/media/BassWarwickheavyfunkgrooveonE120BPM.52c24c81.mp3",
+    "static/media/FUD_120_StompySlosh.27bdc145.mp3": "/looper-dep/static/media/FUD_120_StompySlosh.27bdc145.mp3",
+    "static/media/GrooveB_120bpm_Tanggu.3e1411b4.mp3": "/looper-dep/static/media/GrooveB_120bpm_Tanggu.3e1411b4.mp3",
+    "static/media/MazePolitics_120_Perc.2d08c654.mp3": "/looper-dep/static/media/MazePolitics_120_Perc.2d08c654.mp3",
+    "static/media/PAS3GROOVE1.03B.f77c6da4.mp3": "/looper-dep/static/media/PAS3GROOVE1.03B.f77c6da4.mp3",
+    "static/media/SilentStar_120_Em_OrganSynth.f2d668af.mp3": "/looper-dep/static/media/SilentStar_120_Em_OrganSynth.f2d668af.mp3",
+    "static/media/electricguitarcoutryslide120bpm-B.230fcab8.mp3": "/looper-dep/static/media/electricguitarcoutryslide120bpm-B.230fcab8.mp3",
+    "static/media/logo.6ce24c58.svg": "/looper-dep/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20393e22.js",
+    "static/js/2.ed65af8a.chunk.js",
+    "static/css/main.787ead5d.chunk.css",
+    "static/js/main.16e274f5.chunk.js"
+  ]
+}
